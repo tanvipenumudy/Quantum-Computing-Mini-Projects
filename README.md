@@ -1,7 +1,7 @@
 # Sem-6-HPC-Project
 Parallelizing Shor's Quantum Algorithm to Break RSA Encryption/ Parallelizing a Hybrid Quantum-Classical Neural Network with PyTorch/Qiskit - (IBM Quantum Experience)/Other HPC Modules
 
-## References Links
+## Reference Links
 
 [Shor's Algorithm Theory-I (Video)](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
 
